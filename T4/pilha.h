@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
 struct item {
 	int valor;
 	struct item *proximo;
