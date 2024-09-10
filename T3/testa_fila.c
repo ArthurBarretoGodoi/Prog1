@@ -3,7 +3,6 @@
  
 #include "fila.h"
 
-
 int main()
 {
     struct fila *f1;
