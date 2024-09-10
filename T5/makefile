@@ -11,3 +11,4 @@ $(TARGET): listaDupla.c main.c
 
 clean:
 	rm -f $(TARGET)
+	
